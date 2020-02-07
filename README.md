@@ -1,5 +1,4 @@
-# Monokai Theme for MPLAB X
-Monokai Theme for MPLAB X Assembly
+# Monokai Theme for MPLAB X IDE
 
 # Instructions
 
