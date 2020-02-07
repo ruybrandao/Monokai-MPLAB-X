@@ -1,10 +1,8 @@
 # Monokai Theme for MPLAB X
 Monokai Theme for MPLAB X Assembly
 
-![Monokai Theme](images/Monokai_MPLAB_X.png)
-
 # Instructions
 
 1) Tool > Options > Import > Browse ... > monokai.zip
 2) Tool > Options > Fonts > Monokai
-3) Restart MPLAB X 
+3) Restart MPLAB X
