@@ -2,8 +2,8 @@
 
 # Instructions
 
-1) Tool > Options > Import > Browse ... > monokai.zip
-2) Tool > Options > Fonts & Colors > Monokai
+1) Tools > Options > Import > Browse ... > monokai.zip
+2) Tools > Options > Fonts & Colors > Monokai
 3) Restart MPLAB X
 
 ![Monokai Theme](images/Monokai_MPLAB_X.png)
